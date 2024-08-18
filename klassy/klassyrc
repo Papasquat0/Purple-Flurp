@@ -1,0 +1,15 @@
+[ButtonColors]
+ButtonIconColorsActive=AccentNegativeClose
+ButtonIconColorsInactive=AccentNegativeClose
+CloseButtonIconColorActive=AsSelected
+CloseButtonIconColorInactive=AsSelected
+
+[Global]
+LookAndFeelSet=GruvboxPlasma
+
+[Style]
+MenuOpacity=31
+
+[Windeco]
+ButtonIconStyle=StyleKite
+CornerRadius=0.7
