@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=Black Glass
+Name=Black Glass
+X-KDE-PluginInfo-Author=Mark Whittaker
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Email=phobian@tutanota.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-Name=blackglass
+X-KDE-PluginInfo-Version=3.1
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+
+[BlurBehindEffect]
+enabled=true
